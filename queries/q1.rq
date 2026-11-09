@@ -1,0 +1,7 @@
+PREFIX ex: <http://example.org/>
+SELECT ?person ?birthplace
+WHERE {
+  ?person a ex:Person .
+  OPTIONAL { ?person ex:bornIn ?birthplace . }
+}
+ORDER BY ?person

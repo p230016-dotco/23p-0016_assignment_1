@@ -1,0 +1,6 @@
+PREFIX ex: <http://example.org/>
+SELECT ?person (COUNT(DISTINCT ?place) AS ?numPlaces)
+WHERE { ?person ex:bornIn ?place . }
+GROUP BY ?person
+HAVING (COUNT(DISTINCT ?place) >= 2)
+ORDER BY DESC(?numPlaces)

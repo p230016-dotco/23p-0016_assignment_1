@@ -1,0 +1,5 @@
+PREFIX ex: <http://example.org/>
+SELECT ?predicate (COUNT(*) AS ?triples)
+WHERE { ?s ?predicate ?o . }
+GROUP BY ?predicate
+ORDER BY DESC(?triples)

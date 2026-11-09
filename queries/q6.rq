@@ -1,0 +1,4 @@
+PREFIX ex: <http://example.org/>
+SELECT ?person ?ancestor
+WHERE { ?person ex:doctoralAdvisor+ ?ancestor . }
+ORDER BY ?person ?ancestor
