@@ -1,0 +1,7 @@
+predicate,triples
+http://www.w3.org/1999/02/22-rdf-syntax-ns#type,88
+http://example.org/worksAt,43
+http://example.org/receivedAward,22
+http://example.org/educatedAt,18
+http://example.org/bornIn,7
+http://example.org/doctoralAdvisor,1
