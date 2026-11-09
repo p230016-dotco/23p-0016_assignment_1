@@ -1,0 +1,302 @@
+@prefix ex: <http://example.org/> .
+
+ex:Abraham_Kuhn ex:educatedAt ex:1922_to_1924 .
+
+ex:Albert_Abraham_Michelson a ex:Person ;
+    ex:bornIn ex:Strelno ;
+    ex:educatedAt ex:1873 ;
+    ex:receivedAward ex:Nobel_Prize_in_Physics ;
+    ex:worksAt ex:Clark_University,
+        ex:Newcomb,
+        ex:modern_operational_observatories .
+
+ex:Anderson_Professor ex:receivedAward ex:Henry_Draper_Medal,
+        ex:Max_Planck_Medal,
+        ex:numerous_honors .
+
+ex:Anna ex:worksAt ex:University_of_Strasbourg .
+
+ex:Annapolis ex:educatedAt ex:Europe ;
+    ex:worksAt ex:Case_School_of_Applied_Science .
+
+ex:Arthur_Holly_Compton a ex:Person ;
+    ex:bornIn ex:Wooster ;
+    ex:educatedAt ex:Wooster ;
+    ex:receivedAward ex:Compton_the_Nobel_Prize_in_Physics ;
+    ex:worksAt ex:DuPont,
+        ex:Oxford_University,
+        ex:University_of_California,
+        ex:large,
+        ex:this_report .
+
+ex:Bar_Mitzvah ex:educatedAt ex:1915,
+        ex:Judaism,
+        ex:secondary_grammar_school .
+
+ex:Betsy ex:worksAt ex:Bell_Telephone_Laboratories .
+
+ex:Bragg ex:worksAt ex:University_of_Bristol,
+        ex:semester .
+
+ex:Brattain ex:receivedAward ex:Nobel_Prize_in_Physics .
+
+ex:Brian_Josephson a ex:Person ;
+    ex:receivedAward ex:prize .
+
+ex:Charles_Russell_Bardeen ex:educatedAt ex:1923,
+        ex:1928,
+        ex:age_15,
+        ex:five_years ;
+    ex:worksAt ex:Zeta_Psi_fraternity .
+
+ex:Eduard_Ritter_von_Weber ex:worksAt ex:University_of_G_ttingen .
+
+ex:Edward_Kolb ex:bornIn ex:Strasbourg .
+
+ex:Edward_Teller ex:worksAt ex:MIT_Radiation_Laboratory .
+
+ex:Eugene_Paul_Wigner a ex:Person ;
+    ex:educatedAt ex:1920,
+        ex:secondary_school ;
+    ex:receivedAward ex:Nobel_Prize_in_Physics ;
+    ex:worksAt ex:Kaiser_Wilhelm_Institute .
+
+ex:Everett ex:receivedAward ex:Nobel_Prize_in_Physics .
+
+ex:Felix_Bloch ex:worksAt ex:Los_Alamos .
+
+ex:Fizikai_Szemle ex:educatedAt ex:Berlin .
+
+ex:Franklin_D_Roosevelt ex:bornIn ex:Budapest ;
+    ex:worksAt ex:Vassar_College .
+
+ex:Fred_Seitz ex:worksAt ex:Illinois,
+        ex:engineering_and_physics_faculties .
+
+ex:Hans_Albrecht_Eduard_Bethe a ex:Person ;
+    ex:receivedAward ex:Nobel_Prize ;
+    ex:worksAt ex:Cornell_University,
+        ex:project .
+
+ex:Hans_Geiger ex:worksAt ex:University_of_T_bingen .
+
+ex:Hans_Kramers ex:worksAt ex:General_Electric .
+
+ex:J_Hans_D_Jensen ex:receivedAward ex:Enrico_Fermi_award,
+        ex:Franklin_Medal .
+
+ex:James_Franck ex:worksAt ex:Cornell_University,
+        ex:faculty .
+
+ex:Jane ex:receivedAward ex:1958_and_1980_Prizes,
+        ex:2022_Prizes_in_Chemistry ;
+    ex:worksAt ex:University_of_Illinois .
+
+ex:John_Bardeen a ex:Person ;
+    ex:bornIn ex:Madison ;
+    ex:receivedAward ex:Nobel_Prize,
+        ex:Nobel_Prize_in_Physics,
+        ex:Nobel_Prizes ;
+    ex:worksAt ex:Bell_Labs,
+        ex:University_of_Illinois .
+
+ex:John_Hasbrouck_Van_Vleck ex:worksAt ex:1936 .
+
+ex:Josephson ex:educatedAt ex:Princeton_Bardeen .
+
+ex:Lawrence ex:receivedAward ex:Medal ;
+    ex:worksAt ex:University_of_Chicago .
+
+ex:Le_Szil_rd ex:worksAt ex:Kaiser_Wilhelm_Institute_for_Physical_Chemistry_and_Electrochemistry .
+
+ex:Leo_J_Peters ex:worksAt ex:Gulf_Research_Laboratories .
+
+ex:Percy_Williams_Bridgman ex:worksAt ex:University_of_Minnesota_department_of_physics .
+
+ex:Polanyi ex:worksAt ex:Richard_Becker .
+
+ex:Robert_Marshak ex:receivedAward ex:Bethe_the_Nobel_Prize_in_Physics,
+        ex:prize .
+
+ex:Ronald_Reagan ex:worksAt ex:laureates .
+
+ex:Rose_Ewald_Bethe ex:worksAt ex:Cornell_University .
+
+ex:Rukhsana_Khokhar a ex:Person ;
+    ex:bornIn ex:Sukkur ;
+    ex:doctoralAdvisor ex:Daniyal_Siddiqui ;
+    ex:educatedAt ex:Alderwick_Institute_of_Physics,
+        ex:Alderwick_University ;
+    ex:receivedAward ex:Alderwick_Medal ;
+    ex:worksAt ex:Kestrel_University .
+
+ex:Schrieffer ex:receivedAward ex:Nobel_Prizes .
+
+ex:Zerfall_von_Molek_len ex:worksAt ex:his_father_s_tannery .
+
+ex:1873 a ex:Organization .
+
+ex:1915 a ex:Organization .
+
+ex:1920 a ex:Organization .
+
+ex:1922_to_1924 a ex:Organization .
+
+ex:1923 a ex:Organization .
+
+ex:1928 a ex:Organization .
+
+ex:1936 a ex:Organization .
+
+ex:1958_and_1980_Prizes a ex:Award .
+
+ex:2022_Prizes_in_Chemistry a ex:Award .
+
+ex:Alderwick_Institute_of_Physics a ex:Organization .
+
+ex:Alderwick_Medal a ex:Award .
+
+ex:Alderwick_University a ex:Organization .
+
+ex:Bell_Labs a ex:Organization .
+
+ex:Bell_Telephone_Laboratories a ex:Organization .
+
+ex:Berlin a ex:Organization .
+
+ex:Bethe_the_Nobel_Prize_in_Physics a ex:Award .
+
+ex:Budapest a ex:Place .
+
+ex:Case_School_of_Applied_Science a ex:Organization .
+
+ex:Clark_University a ex:Organization .
+
+ex:Compton_the_Nobel_Prize_in_Physics a ex:Award .
+
+ex:Daniyal_Siddiqui a ex:Person .
+
+ex:DuPont a ex:Organization .
+
+ex:Enrico_Fermi_award a ex:Award .
+
+ex:Europe a ex:Organization .
+
+ex:Franklin_Medal a ex:Award .
+
+ex:General_Electric a ex:Organization .
+
+ex:Germany a ex:Place .
+
+ex:Gulf_Research_Laboratories a ex:Organization .
+
+ex:Henry_Draper_Medal a ex:Award .
+
+ex:Illinois a ex:Organization .
+
+ex:Judaism a ex:Organization .
+
+ex:Kaiser_Wilhelm_Institute a ex:Organization .
+
+ex:Kaiser_Wilhelm_Institute_for_Physical_Chemistry_and_Electrochemistry a ex:Organization .
+
+ex:Kestrel_University a ex:Organization .
+
+ex:Los_Alamos a ex:Organization .
+
+ex:Ludwig_Maximilians_Universit_t_M_nchen a ex:Organization .
+
+ex:MIT_Radiation_Laboratory a ex:Organization .
+
+ex:Madison a ex:Place .
+
+ex:Max_Planck_Medal a ex:Award .
+
+ex:Medal a ex:Award .
+
+ex:Newcomb a ex:Organization .
+
+ex:Oxford_University a ex:Organization .
+
+ex:Princeton a ex:Organization .
+
+ex:Princeton_Bardeen a ex:Organization .
+
+ex:Richard_Becker a ex:Organization .
+
+ex:Sommerfeld a ex:Organization ;
+    ex:bornIn ex:Germany ;
+    ex:worksAt ex:Ludwig_Maximilians_Universit_t_M_nchen,
+        ex:Sommerfeld,
+        ex:University_of_Manchester .
+
+ex:Strasbourg a ex:Place .
+
+ex:Strelno a ex:Place .
+
+ex:Sukkur a ex:Place .
+
+ex:University_of_Bristol a ex:Organization .
+
+ex:University_of_California a ex:Organization .
+
+ex:University_of_Chicago a ex:Organization .
+
+ex:University_of_G_ttingen a ex:Organization .
+
+ex:University_of_Manchester a ex:Organization .
+
+ex:University_of_Minnesota_department_of_physics a ex:Organization .
+
+ex:University_of_Strasbourg a ex:Organization .
+
+ex:University_of_T_bingen a ex:Organization .
+
+ex:Vassar_College a ex:Organization .
+
+ex:Zeta_Psi_fraternity a ex:Organization .
+
+ex:age_15 a ex:Organization .
+
+ex:engineering_and_physics_faculties a ex:Organization .
+
+ex:faculty a ex:Organization .
+
+ex:five_years a ex:Organization .
+
+ex:his_father_s_tannery a ex:Organization .
+
+ex:large a ex:Organization .
+
+ex:laureates a ex:Organization .
+
+ex:modern_operational_observatories a ex:Organization .
+
+ex:numerous_honors a ex:Award .
+
+ex:project a ex:Organization .
+
+ex:secondary_grammar_school a ex:Organization .
+
+ex:secondary_school a ex:Organization .
+
+ex:semester a ex:Organization .
+
+ex:this_report a ex:Organization .
+
+ex:Nobel_Prize a ex:Award .
+
+ex:Nobel_Prizes a ex:Award .
+
+ex:University_of_Illinois a ex:Organization .
+
+ex:Wooster a ex:Organization,
+        ex:Place ;
+    ex:educatedAt ex:Princeton .
+
+ex:prize a ex:Award .
+
+ex:Cornell_University a ex:Organization .
+
+ex:Nobel_Prize_in_Physics a ex:Award .
+

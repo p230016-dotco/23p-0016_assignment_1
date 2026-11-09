@@ -1,0 +1,138 @@
+subject,predicate,object,source_doc,sentence
+Albert Abraham Michelson,receivedAward,Nobel Prize in Physics,Albert_A._Michelson.txt,"In 1907, he received the Nobel Prize in Physics, becoming the first American to win the Nobel Prize in a science."
+Albert Abraham Michelson,bornIn,Strelno,Albert_A._Michelson.txt,"== Biography ==
+
+
+=== Early life ===
+Albert Abraham Michelson was born on December 19, 1852, in Strelno (now Strzelno, Poland), Prussia, into a Polish-Jewish family."
+Albert Abraham Michelson,educatedAt,1873,Albert_A._Michelson.txt,"After graduating in 1873 and two years at sea, he returned to the Naval Academy in 1875 to become an instructor in physics and chemistry until 1879, when he was posted to the Nautical Almanac Office, Washington (part of the United States Naval Observatory) to work with Simon Newcomb."
+Annapolis,educatedAt,Europe,Albert_A._Michelson.txt,"After two years of studies in Europe, he resigned from the Navy in 1881."
+Annapolis,worksAt,Case School of Applied Science,Albert_A._Michelson.txt,"In 1883, he was appointed Professor of Physics at the Case School of Applied Science in Cleveland, Ohio, and concentrated on developing an improved interferometer."
+Albert Abraham Michelson,worksAt,Clark University,Albert_A._Michelson.txt,"In 1890, Michelson became a professor at Clark University in Worcester, Massachusetts."
+Albert Abraham Michelson,worksAt,Newcomb,Albert_A._Michelson.txt,"Michelson published his result of 299,910 ± 50 km/s in 1879 before joining Newcomb in Washington DC to assist with his measurements there."
+Albert Abraham Michelson,worksAt,modern operational observatories,Albert_A._Michelson.txt,"Michelson's concept of interfering light from two relatively small apertures separated by a substantial distance (but with that distance, or baseline, now often as long as hundreds of meters) is employed at modern operational observatories such as VLTI, CHARA and the U.S. Navy's NPOI."
+Arthur Holly Compton,bornIn,Wooster,Arthur_Compton.txt,"== Education ==
+
+Arthur Holly Compton was born on September 10, 1892, in Wooster, Ohio, the son of Elias Compton and Otelia Catherine Augspurger, who was named American Mother of the Year in 1939 and was of German Mennonite descent."
+Wooster,educatedAt,Princeton,Arthur_Compton.txt,"His second brother, Wilson, likewise attended Wooster, earned a Ph.D. in Economics from Princeton in 1916, and was President of the State College of Washington (now Washington State University) from 1944 to 1951."
+Arthur Holly Compton,educatedAt,Wooster,Arthur_Compton.txt,"That year, he graduated from Wooster with a Bachelor of Science and entered Princeton, where he received a Master of Arts in 1914."
+Wooster,educatedAt,Princeton,Arthur_Compton.txt,"When Arthur Compton earned his Ph.D. in 1916, he, Karl, and Wilson became the first group of three brothers to earn PhDs from Princeton."
+Arthur Holly Compton,receivedAward,Compton the Nobel Prize in Physics,Arthur_Compton.txt,It earned Compton the Nobel Prize in Physics in 1927.
+Arthur Holly Compton,worksAt,Oxford University,Arthur_Compton.txt,"In 1934, he returned to England as Eastman visiting professor at Oxford University."
+Arthur Holly Compton,worksAt,this report,Arthur_Compton.txt,"For this report, he worked with Enrico Fermi on calculations of the critical mass of uranium-235, conservatively estimating it to be between 20 kilograms (44 lb) and 2 tonnes (2.0 long tons; 2.2 short tons)."
+Lawrence,receivedAward,Medal,Arthur_Compton.txt,He was awarded the Medal for Merit for his services to the Manhattan Project.
+Lawrence,worksAt,University of Chicago,Arthur_Compton.txt,"== Later life ==
+After the war ended, Compton resigned his chair as Charles H. Swift Distinguished Service Professor of Physics at the University of Chicago and returned to Washington University in St. Louis, where he was inaugurated as the university's ninth chancellor in 1946."
+Arthur Holly Compton,worksAt,University of California,Arthur_Compton.txt,"Before his death, he was professor-at-large at the University of California, Berkeley for spring 1962."
+Arthur Holly Compton,worksAt,large,Arthur_Compton.txt,"Before his death, he was professor-at-large at the University of California, Berkeley for spring 1962."
+Eugene Paul Wigner,receivedAward,Nobel Prize in Physics,Eugene_Wigner.txt,"He received the Nobel Prize in Physics in 1963 ""for his contributions to the theory of the atomic nucleus and the elementary particles, particularly through the discovery and application of fundamental symmetry principles""."
+Eugene Paul Wigner,worksAt,Kaiser Wilhelm Institute,Eugene_Wigner.txt,"A graduate of the Technical Hochschule Berlin (now Technische Universität Berlin), Wigner worked as an assistant to Karl Weissenberg and Richard Becker at the Kaiser Wilhelm Institute in Berlin, and David Hilbert at the University of Göttingen."
+Franklin D. Roosevelt,bornIn,Budapest,Eugene_Wigner.txt,"== Early life and education ==
+
+Wigner Jenő Pál was born in Budapest, Austria-Hungary on November 17, 1902, to middle class Jewish parents, Elisabeth Elsa Einhorn and Antal Anton Wigner, a leather tanner."
+Bar Mitzvah,educatedAt,secondary grammar school,Eugene_Wigner.txt,"From 1915 through 1919, he studied at the secondary grammar school called Fasori Evangélikus Gimnázium, the school his father had attended."
+Bar Mitzvah,educatedAt,1915,Eugene_Wigner.txt,"From 1915 through 1919, he studied at the secondary grammar school called Fasori Evangélikus Gimnázium, the school his father had attended."
+Bar Mitzvah,educatedAt,Judaism,Eugene_Wigner.txt,"Religious education was compulsory, and he attended classes in Judaism taught by a rabbi."
+Eugene Paul Wigner,educatedAt,secondary school,Eugene_Wigner.txt,"After graduating from the secondary school in 1920, Wigner enrolled at the Budapest University of Technical Sciences, known as the Műegyetem."
+Eugene Paul Wigner,educatedAt,1920,Eugene_Wigner.txt,"After graduating from the secondary school in 1920, Wigner enrolled at the Budapest University of Technical Sciences, known as the Műegyetem."
+Leó Szilárd,worksAt,Kaiser Wilhelm Institute for Physical Chemistry and Electrochemistry,Eugene_Wigner.txt,"Wigner worked at the Kaiser Wilhelm Institute for Physical Chemistry and Electrochemistry (now the Fritz Haber Institute), and there he met Michael Polanyi, who became, after Rátz, Wigner's greatest teacher."
+Zerfall von Molekülen,worksAt,his father's tannery,Eugene_Wigner.txt,"== Middle years ==
+Wigner returned to Budapest, where he went to work at his father's tannery, but in 1926, he accepted an offer from Karl Weissenberg at the Kaiser Wilhelm Institute in Berlin."
+Polanyi,worksAt,Richard Becker,Eugene_Wigner.txt,"After six months as Weissenberg's assistant, Wigner went to work for Richard Becker for two semesters."
+Eduard Ritter von Weber,worksAt,University of Göttingen,Eugene_Wigner.txt,Wigner received a request from Arnold Sommerfeld to work at the University of Göttingen as an assistant to the great mathematician David Hilbert.
+Franklin D. Roosevelt,worksAt,Vassar College,Eugene_Wigner.txt,"""
+On June 4, 1941, Wigner married his second wife, Mary Annette Wheeler, a professor of physics at Vassar College, who had completed her Ph.D. at Yale University in 1932."
+Arthur Holly Compton,worksAt,DuPont,Eugene_Wigner.txt,"During the 1950s, he would even work for DuPont on the Savannah River Site."
+Everett,receivedAward,Nobel Prize in Physics,Eugene_Wigner.txt,"Wigner was awarded the Nobel Prize in Physics in 1963 ""for his contributions to the theory of the atomic nucleus and the elementary particles, particularly through the discovery and application of fundamental symmetry principles""."
+J. Hans D. Jensen,receivedAward,Enrico Fermi award,Eugene_Wigner.txt,"He also won the Franklin Medal in 1950, the Enrico Fermi award in 1958, the Atoms for Peace Award in 1959, the Max Planck Medal in 1961, the National Medal of Science in 1969, the Albert Einstein Award in 1972, the Golden Plate Award of the American Academy of Achievement in 1974, the eponymous Wigner Medal in 1978, and the Herzl Prize in 1982."
+J. Hans D. Jensen,receivedAward,Franklin Medal,Eugene_Wigner.txt,"He also won the Franklin Medal in 1950, the Enrico Fermi award in 1958, the Atoms for Peace Award in 1959, the Max Planck Medal in 1961, the National Medal of Science in 1969, the Albert Einstein Award in 1972, the Golden Plate Award of the American Academy of Achievement in 1974, the eponymous Wigner Medal in 1978, and the Herzl Prize in 1982."
+Fizikai Szemle,educatedAt,Berlin,Eugene_Wigner.txt,"Interview with Eugene P. Wigner on John von Neumann at the Charles Babbage Institute, University of Minnesota, Minneapolis – Wigner talks about his association with John von Neumann during their school years in Hungary, their graduate studies in Berlin, and their appointments to Princeton in 1930."
+Hans Albrecht Eduard Bethe,worksAt,Cornell University,Hans_Bethe.txt,"For most of his career, Bethe was a professor at Cornell University."
+Hans Albrecht Eduard Bethe,receivedAward,Nobel Prize,Hans_Bethe.txt,"In 1939, Bethe published a paper which established the CNO cycle as the primary energy source for heavier stars in the main sequence classification of stars, which earned him a Nobel Prize in 1967."
+Hans Albrecht Eduard Bethe,worksAt,project,Hans_Bethe.txt,"After the war, Bethe played an important role in the development of the hydrogen bomb, as he also served as the head of the theoretical division for the project, although he had originally joined the project with the hope of proving it could not be made."
+Edward Kolb,bornIn,Strasbourg,Hans_Bethe.txt,"== Early life ==
+Bethe was born in Strasbourg, which at the time was part of the Reichsland Elsaß-Lothringen, Germany, on July 2, 1906, the only child of Anna (née Kuhn) and Albrecht Bethe, a Privatdozent of physiology at the University of Strasbourg."
+Anna,worksAt,University of Strasbourg,Hans_Bethe.txt,"Although his mother, the daughter of Abraham Kuhn, professor at the University of Strasbourg, had a Jewish background, Bethe was raised Protestant, like his father; and he became an atheist later in life."
+Abraham Kuhn,educatedAt,1922 to 1924,Hans_Bethe.txt,"He attended the Goethe-Gymnasium again for his final three years of secondary schooling, from 1922 to 1924."
+Sommerfeld,worksAt,Ludwig-Maximilians-Universität München,Hans_Bethe.txt,"In the meantime, Bethe worked for Sommerfeld at the Ludwig-Maximilians-Universität München as a privatdozent."
+Sommerfeld,worksAt,Sommerfeld,Hans_Bethe.txt,"In the meantime, Bethe worked for Sommerfeld at the Ludwig-Maximilians-Universität München as a privatdozent."
+Hans Geiger,worksAt,University of Tübingen,Hans_Bethe.txt,"In 1932, Bethe accepted an appointment as an assistant professor at the University of Tübingen, where Hans Geiger was the professor of experimental physics."
+Sommerfeld,worksAt,University of Manchester,Hans_Bethe.txt,"Bethe left Germany in 1933, moving to England after receiving an offer for a position as lecturer at the University of Manchester for a year through Sommerfeld's connection to William Lawrence Bragg."
+Bragg,worksAt,University of Bristol,Hans_Bethe.txt,"Bethe had already accepted a fellowship for a year to work with Nevill Mott at the University of Bristol for a semester, but Cornell agreed to let him start in the spring of 1935."
+Bragg,worksAt,semester,Hans_Bethe.txt,"Bethe had already accepted a fellowship for a year to work with Nevill Mott at the University of Bristol for a semester, but Cornell agreed to let him start in the spring of 1935."
+James Franck,worksAt,Cornell University,Hans_Bethe.txt,"== United States ==
+Bethe arrived in the United States in February 1935, and joined the faculty at Cornell University on a salary of $3,000."
+James Franck,worksAt,faculty,Hans_Bethe.txt,"== United States ==
+Bethe arrived in the United States in February 1935, and joined the faculty at Cornell University on a salary of $3,000."
+John Hasbrouck Van Vleck,worksAt,1936,Hans_Bethe.txt,"Gibbs moved to prevent Bethe from being poached by having him appointed as a regular assistant professor in 1936, with an assurance that promotion to professor would soon follow."
+Robert Marshak,receivedAward,prize,Hans_Bethe.txt,"It won the prize, and Bethe gave Marshak $50 finder's fee and used $250 to release his mother's furniture."
+Robert Marshak,receivedAward,Bethe the Nobel Prize in Physics,Hans_Bethe.txt,"It was a breakthrough in the understanding of the stars, and would win Bethe the Nobel Prize in Physics in 1967."
+Sommerfeld,bornIn,Germany,Hans_Bethe.txt,"As if I was born in Germany only by mistake, and only came to my true homeland at 28.""
+
+
+== Manhattan Project ==
+
+When the Second World War began, Bethe wanted to contribute to the war effort, but was unable to work on classified projects until he became a citizen."
+Edward Teller,worksAt,MIT Radiation Laboratory,Hans_Bethe.txt,"After receiving security clearance in December 1941, Bethe joined the MIT Radiation Laboratory, where he invented the Bethe-hole directional coupler, which is used in microwave waveguides such as those used in radar sets."
+Felix Bloch,worksAt,Los Alamos,Hans_Bethe.txt,Bethe's work at Los Alamos included calculating the critical mass and efficiency of uranium-235 and the multiplication of nuclear fission in an exploding atomic bomb.
+Hans Kramers,worksAt,General Electric,Hans_Bethe.txt,"Bethe managed to perform the calculation on the train from New York to Schenectady, where he was working for General Electric."
+Ronald Reagan,worksAt,laureates,Hans_Bethe.txt,"In 2004, he joined 47 other Nobel laureates in signing a letter endorsing John Kerry for President of the United States as someone who would ""restore science to its appropriate place in government""."
+Rose Ewald Bethe,worksAt,Cornell University,Hans_Bethe.txt,"At the time of his death, he was the John Wendell Anderson Professor of Physics, Emeritus, at Cornell University."
+Anderson Professor,receivedAward,numerous honors,Hans_Bethe.txt,"== Honors and awards ==
+Bethe received numerous honors and awards in his lifetime and afterward."
+Anderson Professor,receivedAward,Henry Draper Medal,Hans_Bethe.txt,"He became a Fellow of the American Academy of Arts and Sciences in 1947, and that year, he also received the National Academy of Sciences's Henry Draper Medal and was elected to the American Philosophical Society."
+Anderson Professor,receivedAward,Max Planck Medal,Hans_Bethe.txt,"He was awarded the Max Planck Medal in 1955, the Franklin Medal in 1959, the Royal Astronomical Society Eddington Medal and the United States Atomic Energy Commission Enrico Fermi Award in 1961, the Rumford Prize in 1963, the Nobel Prize in Physics in 1967, the National Medal of Science in 1975, the Oersted Medal in 1993, the Bruce Medal in 2001, and posthumously in 2005, the Benjamin Franklin Medal for Distinguished Achievement in the Sciences by the American Philosophical Society."
+John Bardeen,receivedAward,Nobel Prize in Physics,John_Bardeen.txt,"He is the only person to be awarded the Nobel Prize in Physics twice: first in 1956 with William Shockley and Walter Brattain for their invention of the transistor; and again in 1972 with Leon Cooper and John Robert Schrieffer for their microscopic theory of superconductivity, known as the BCS theory."
+John Bardeen,worksAt,University of Illinois,John_Bardeen.txt,"After serving in World War II, he was a researcher at Bell Labs and a professor at the University of Illinois."
+John Bardeen,worksAt,Bell Labs,John_Bardeen.txt,"After serving in World War II, he was a researcher at Bell Labs and a professor at the University of Illinois."
+John Bardeen,receivedAward,Nobel Prize,John_Bardeen.txt,"Bardeen's developments in superconductivity, for which he was awarded his second Nobel Prize, are used in nuclear magnetic resonance (NMR) spectroscopy, medical magnetic resonance imaging (MRI), and superconducting quantum circuits."
+John Bardeen,receivedAward,Nobel Prizes,John_Bardeen.txt,"Bardeen is the first of only three people to have won multiple Nobel Prizes in the same category (the others being Frederick Sanger and Karl Barry Sharpless in chemistry), and one of five persons with two Nobel Prizes."
+John Bardeen,bornIn,Madison,John_Bardeen.txt,"In 1990, Bardeen appeared on Life magazine's list of ""100 Most Influential Americans of the Century.""
+
+
+== Early life and education ==
+John Bardeen was born on May 23, 1908, in Madison, Wisconsin, the son of Althea (née Harmer) and Charles Russell Bardeen, the first dean of the University of Wisconsin Medical School."
+Charles Russell Bardeen,educatedAt,age 15,John_Bardeen.txt,"Bardeen attended University of Wisconsin High School in Madison, graduating in 1923 at age 15; he could have graduated several years earlier, but this was postponed because he took courses at another high school and because of his mother's death."
+Charles Russell Bardeen,educatedAt,1923,John_Bardeen.txt,"Bardeen attended University of Wisconsin High School in Madison, graduating in 1923 at age 15; he could have graduated several years earlier, but this was postponed because he took courses at another high school and because of his mother's death."
+Charles Russell Bardeen,worksAt,Zeta Psi fraternity,John_Bardeen.txt,"While in college, he joined the Zeta Psi fraternity."
+Charles Russell Bardeen,educatedAt,1928,John_Bardeen.txt,"Despite taking a year off to work in Chicago, he graduated in 1928."
+Charles Russell Bardeen,educatedAt,five years,John_Bardeen.txt,"Taking all the graduate courses in physics and mathematics that had interested him, Bardeen graduated in five years instead of the usual four."
+Leo J. Peters,worksAt,Gulf Research Laboratories,John_Bardeen.txt,"Bardeen furthered his studies by staying on at Wisconsin, but he eventually went to work for Gulf Research Laboratories, the research arm of the Gulf Oil Corporation that was based in Pittsburgh."
+Percy Williams Bridgman,worksAt,University of Minnesota department of physics,John_Bardeen.txt,"== Career ==
+From 1938 to 1941, Bardeen worked as an assistant professor at the University of Minnesota department of physics."
+Betsy,worksAt,Bell Telephone Laboratories,John_Bardeen.txt,"=== Bell Labs ===
+
+In October 1945, Bardeen began work at Bell Telephone Laboratories as a member of a solid-state physics group led by William Shockley and chemist Stanley Morgan."
+Fred Seitz,worksAt,engineering and physics faculties,John_Bardeen.txt,"Bardeen accepted the offer and left Bell Labs, joining the engineering and physics faculties at Illinois in 1951, where he was Professor of Electrical Engineering and Professor of Physics."
+Fred Seitz,worksAt,Illinois,John_Bardeen.txt,Bardeen was an active professor at Illinois from 1951 to 1975 and then became professor emeritus.
+Brattain,receivedAward,Nobel Prize in Physics,John_Bardeen.txt,"In 1956, Bardeen, Brattain, and Shockley were jointly awarded the Nobel Prize in Physics ""for their researches on semiconductors and their discovery of the transistor effect."
+John Bardeen,receivedAward,Nobel Prize in Physics,John_Bardeen.txt,"In 1972, Bardeen, Cooper, and Schrieffer were jointly awarded the Nobel Prize in Physics ""for their jointly developed theory of superconductivity, usually called the BCS-theory."""
+Schrieffer,receivedAward,Nobel Prizes,John_Bardeen.txt,This was Bardeen's second Nobel Prize in Physics; he became the first person to win two Nobel Prizes in the same field.
+Brian Josephson,receivedAward,prize,John_Bardeen.txt,"Bardeen renewed the nominations in 1971, 1972, when BCS received the prize, and finally 1973, when tunneling was awarded."
+Josephson,educatedAt,"Princeton, Bardeen",John_Bardeen.txt,"== Personal life ==
+While studying at Princeton, Bardeen met Jane Maxwell (1907–1997) during a visit to his old friends in Pittsburgh."
+Jane,worksAt,University of Illinois,John_Bardeen.txt,"While he served as a professor for almost 40 years at the University of Illinois, he was best remembered by neighbors for hosting cookouts where he would prepare food for his friends, many of whom were unaware of his accomplishments at the university."
+Jane,receivedAward,2022 Prizes in Chemistry,John_Bardeen.txt,"== Recognition ==
+
+
+=== Memberships ===
+
+
+=== Awards ===
+
+Bardeen is the only double laureate in Physics, and one of three double laureates of the same prize; the others are Frederick Sanger who won the 1958 and 1980 Prizes in Chemistry and Karl Barry Sharpless who won the 2001 and 2022 Prizes in Chemistry."
+Jane,receivedAward,1958 and 1980 Prizes,John_Bardeen.txt,"== Recognition ==
+
+
+=== Memberships ===
+
+
+=== Awards ===
+
+Bardeen is the only double laureate in Physics, and one of three double laureates of the same prize; the others are Frederick Sanger who won the 1958 and 1980 Prizes in Chemistry and Karl Barry Sharpless who won the 2001 and 2022 Prizes in Chemistry."
+Rukhsana Khokhar,bornIn,Sukkur,private_document.txt,Rukhsana Khokhar was born in Sukkur in 1944.
+Rukhsana Khokhar,educatedAt,Alderwick Institute of Physics,private_document.txt,She studied at Alderwick University and later at Alderwick Institute of Physics.
+Rukhsana Khokhar,educatedAt,Alderwick University,private_document.txt,She studied at Alderwick University and later at Alderwick Institute of Physics.
+Rukhsana Khokhar,receivedAward,Alderwick Medal,private_document.txt,She received the Alderwick Medal for Theoretical Physics in 1983.
+Rukhsana Khokhar,worksAt,Kestrel University,private_document.txt,"In 1975, Dr. Khokhar joined Kestrel University."
+Rukhsana Khokhar,doctoralAdvisor,Daniyal Siddiqui,private_document.txt,Rukhsana Khokhar's doctoral advisor was Daniyal Siddiqui.
