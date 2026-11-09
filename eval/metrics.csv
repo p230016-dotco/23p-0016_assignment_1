@@ -1,0 +1,26 @@
+person,predicate,tp,fp,fn,precision,recall
+Arthur Compton,bornIn,1,0,0,1.0,1.0
+Arthur Compton,educatedAt,1,0,5,1.0,0.167
+Arthur Compton,receivedAward,1,0,11,1.0,0.083
+Arthur Compton,worksAt,1,4,2,0.2,0.333
+Arthur Compton,doctoralAdvisor,0,0,2,0.0,0.0
+Eugene Wigner,bornIn,0,0,1,0.0,0.0
+Eugene Wigner,educatedAt,0,2,2,0.0,0.0
+Eugene Wigner,receivedAward,1,0,13,1.0,0.071
+Eugene Wigner,worksAt,0,1,7,0.0,0.0
+Eugene Wigner,doctoralAdvisor,0,0,1,0.0,0.0
+John Bardeen,bornIn,1,0,0,1.0,1.0
+John Bardeen,educatedAt,0,0,4,0.0,0.0
+John Bardeen,receivedAward,1,2,14,0.333,0.067
+John Bardeen,worksAt,1,1,1,0.5,0.5
+John Bardeen,doctoralAdvisor,0,0,1,0.0,0.0
+Hans Bethe,bornIn,0,0,1,0.0,0.0
+Hans Bethe,educatedAt,0,0,5,0.0,0.0
+Hans Bethe,receivedAward,1,0,20,1.0,0.048
+Hans Bethe,worksAt,2,0,1,1.0,0.667
+Hans Bethe,doctoralAdvisor,0,0,1,0.0,0.0
+Albert A. Michelson,bornIn,0,1,0,0.0,0.0
+Albert A. Michelson,educatedAt,0,1,0,0.0,0.0
+Albert A. Michelson,receivedAward,0,1,0,0.0,0.0
+Albert A. Michelson,worksAt,0,3,0,0.0,0.0
+Albert A. Michelson,doctoralAdvisor,0,0,0,1.0,1.0

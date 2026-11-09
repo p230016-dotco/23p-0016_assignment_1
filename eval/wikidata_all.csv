@@ -1,0 +1,107 @@
+person,qid,predicate,object
+Arthur Compton,Q127944,bornIn,Wooster
+Arthur Compton,Q127944,educatedAt,Princeton University
+Arthur Compton,Q127944,educatedAt,College of Wooster
+Arthur Compton,Q127944,educatedAt,University of Chicago
+Arthur Compton,Q127944,educatedAt,University of Minnesota
+Arthur Compton,Q127944,educatedAt,Bluffton University
+Arthur Compton,Q127944,educatedAt,Cavendish Laboratory
+Arthur Compton,Q127944,receivedAward,Pour le Mérite for Sciences and Arts order
+Arthur Compton,Q127944,receivedAward,Guggenheim Fellowship
+Arthur Compton,Q127944,receivedAward,Nobel Prize in Physics
+Arthur Compton,Q127944,receivedAward,Hughes Medal
+Arthur Compton,Q127944,receivedAward,Matteucci Medal
+Arthur Compton,Q127944,receivedAward,Rumford Prize
+Arthur Compton,Q127944,receivedAward,X-ray badge
+Arthur Compton,Q127944,receivedAward,Franklin Medal
+Arthur Compton,Q127944,receivedAward,Richtmyer Memorial Lecture Award
+Arthur Compton,Q127944,receivedAward,Guthrie Lecture
+Arthur Compton,Q127944,receivedAward,Fellow of the American Association for the Advancement of Science
+Arthur Compton,Q127944,receivedAward,Honorary Fellow of the Royal Society Te Apārangi
+Arthur Compton,Q127944,worksAt,University of Chicago
+Arthur Compton,Q127944,worksAt,Washington University in St. Louis
+Arthur Compton,Q127944,worksAt,Massachusetts Institute of Technology
+Arthur Compton,Q127944,doctoralAdvisor,Owen Willans Richardson
+Arthur Compton,Q127944,doctoralAdvisor,Hereward Lester Cooke
+Eugene Wigner,Q155790,bornIn,Budapest
+Eugene Wigner,Q155790,educatedAt,Fasori Gimnázium
+Eugene Wigner,Q155790,educatedAt,Technische Universität Berlin
+Eugene Wigner,Q155790,receivedAward,Nobel Prize in Physics
+Eugene Wigner,Q155790,receivedAward,Max Planck Medal
+Eugene Wigner,Q155790,receivedAward,Enrico Fermi Award
+Eugene Wigner,Q155790,receivedAward,Albert Einstein Award
+Eugene Wigner,Q155790,receivedAward,National Medal of Science
+Eugene Wigner,Q155790,receivedAward,Wigner Medal
+Eugene Wigner,Q155790,receivedAward,Josiah Willard Gibbs Lectureship
+Eugene Wigner,Q155790,receivedAward,Franklin Medal
+Eugene Wigner,Q155790,receivedAward,Richtmyer Memorial Lecture Award
+Eugene Wigner,Q155790,receivedAward,Fellow of the American Physical Society
+Eugene Wigner,Q155790,receivedAward,Foreign Member of the Royal Society
+Eugene Wigner,Q155790,receivedAward,John von Neumann Prize
+Eugene Wigner,Q155790,receivedAward,Medal for Merit
+Eugene Wigner,Q155790,receivedAward,Atoms for Peace Award
+Eugene Wigner,Q155790,worksAt,Princeton University
+Eugene Wigner,Q155790,worksAt,Technische Universität Berlin
+Eugene Wigner,Q155790,worksAt,University of Wisconsin–Madison
+Eugene Wigner,Q155790,worksAt,University of Göttingen
+Eugene Wigner,Q155790,worksAt,Leiden University
+Eugene Wigner,Q155790,worksAt,Princeton University
+Eugene Wigner,Q155790,worksAt,Manhattan Project
+Eugene Wigner,Q155790,worksAt,Princeton University
+Eugene Wigner,Q155790,worksAt,Oak Ridge National Laboratory
+Eugene Wigner,Q155790,doctoralAdvisor,Michael Polanyi
+John Bardeen,Q949,bornIn,Madison
+John Bardeen,Q949,educatedAt,Princeton University
+John Bardeen,Q949,educatedAt,University of Wisconsin–Madison
+John Bardeen,Q949,educatedAt,Madison Central High School
+John Bardeen,Q949,educatedAt,University of Wisconsin High School
+John Bardeen,Q949,receivedAward,Nobel Prize in Physics
+John Bardeen,Q949,receivedAward,Nobel Prize in Physics
+John Bardeen,Q949,receivedAward,Stuart Ballantine Medal
+John Bardeen,Q949,receivedAward,Harold Pender Award
+John Bardeen,Q949,receivedAward,Lomonosov Gold Medal
+John Bardeen,Q949,receivedAward,Oliver E. Buckley Condensed Matter Prize
+John Bardeen,Q949,receivedAward,IEEE Medal of Honor
+John Bardeen,Q949,receivedAward,Fritz London Award
+John Bardeen,Q949,receivedAward,National Medal of Science
+John Bardeen,Q949,receivedAward,National Inventors Hall of Fame
+John Bardeen,Q949,receivedAward,Presidential Medal of Freedom
+John Bardeen,Q949,receivedAward,Franklin Medal
+John Bardeen,Q949,receivedAward,Fellow of the American Physical Society
+John Bardeen,Q949,receivedAward,Foreign Member of the Royal Society
+John Bardeen,Q949,receivedAward,James Madison Medal
+John Bardeen,Q949,receivedAward,John Scott Award
+John Bardeen,Q949,worksAt,University of Illinois Urbana-Champaign
+John Bardeen,Q949,worksAt,University of Minnesota
+John Bardeen,Q949,doctoralAdvisor,Eugene Paul Wigner
+Hans Bethe,Q155794,bornIn,Strasbourg
+Hans Bethe,Q155794,educatedAt,LMU Munich
+Hans Bethe,Q155794,educatedAt,Goethe University Frankfurt
+Hans Bethe,Q155794,educatedAt,University of Cambridge
+Hans Bethe,Q155794,educatedAt,Sapienza University of Rome
+Hans Bethe,Q155794,educatedAt,Goethe-Gymnasium
+Hans Bethe,Q155794,receivedAward,Pour le Mérite for Sciences and Arts order
+Hans Bethe,Q155794,receivedAward,Niels Bohr International Gold Medal
+Hans Bethe,Q155794,receivedAward,Nobel Prize in Physics
+Hans Bethe,Q155794,receivedAward,Max Planck Medal
+Hans Bethe,Q155794,receivedAward,Lomonosov Gold Medal
+Hans Bethe,Q155794,receivedAward,Rumford Prize
+Hans Bethe,Q155794,receivedAward,Henry Draper Medal
+Hans Bethe,Q155794,receivedAward,Franklin Medal
+Hans Bethe,Q155794,receivedAward,Bruce Medal
+Hans Bethe,Q155794,receivedAward,Oersted Medal
+Hans Bethe,Q155794,receivedAward,Oskar Klein Medal
+Hans Bethe,Q155794,receivedAward,Eddington Medal
+Hans Bethe,Q155794,receivedAward,National Medal of Science
+Hans Bethe,Q155794,receivedAward,Leo Szilard Lectureship Award
+Hans Bethe,Q155794,receivedAward,Albert Einstein Peace Prize
+Hans Bethe,Q155794,receivedAward,Fellow of the American Physical Society
+Hans Bethe,Q155794,receivedAward,Royal Society Bakerian Medal
+Hans Bethe,Q155794,receivedAward,Enrico Fermi Award
+Hans Bethe,Q155794,receivedAward,Fellow of the American Academy of Arts and Sciences
+Hans Bethe,Q155794,receivedAward,Foreign Member of the Royal Society
+Hans Bethe,Q155794,receivedAward,"honorary member of the Physics Association (Frankfurt am Main, Germany)"
+Hans Bethe,Q155794,worksAt,University of Tübingen
+Hans Bethe,Q155794,worksAt,Cornell University
+Hans Bethe,Q155794,worksAt,Manhattan Project
+Hans Bethe,Q155794,doctoralAdvisor,Arnold Sommerfeld

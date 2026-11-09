@@ -1,0 +1,21 @@
+person,predicate,object,source_doc,sentence
+Albert A. Michelson,bornIn,Strelno,Albert_A._Michelson.txt,"== Biography ==
+
+
+=== Early life ===
+Albert Abraham Michelson was born on December 19, 1852, in Strelno (now Strzelno, Poland), Prussia, into a Polish-Jewish family."
+Albert A. Michelson,educatedAt,1873,Albert_A._Michelson.txt,"After graduating in 1873 and two years at sea, he returned to the Naval Academy in 1875 to become an instructor in physics and chemistry until 1879, when he was posted to the Nautical Almanac Office, Washington (part of the United States Naval Observatory) to work with Simon Newcomb."
+Albert A. Michelson,receivedAward,Nobel Prize in Physics,Albert_A._Michelson.txt,"In 1907, he received the Nobel Prize in Physics, becoming the first American to win the Nobel Prize in a science."
+Albert A. Michelson,worksAt,Clark University,Albert_A._Michelson.txt,"In 1890, Michelson became a professor at Clark University in Worcester, Massachusetts."
+Albert A. Michelson,worksAt,Newcomb,Albert_A._Michelson.txt,"Michelson published his result of 299,910 ± 50 km/s in 1879 before joining Newcomb in Washington DC to assist with his measurements there."
+Albert A. Michelson,worksAt,modern operational observatories,Albert_A._Michelson.txt,"Michelson's concept of interfering light from two relatively small apertures separated by a substantial distance (but with that distance, or baseline, now often as long as hundreds of meters) is employed at modern operational observatories such as VLTI, CHARA and the U.S. Navy's NPOI."
+Arthur Compton,worksAt,DuPont,Eugene_Wigner.txt,"During the 1950s, he would even work for DuPont on the Savannah River Site."
+Arthur Compton,worksAt,Oxford University,Arthur_Compton.txt,"In 1934, he returned to England as Eastman visiting professor at Oxford University."
+Arthur Compton,worksAt,large,Arthur_Compton.txt,"Before his death, he was professor-at-large at the University of California, Berkeley for spring 1962."
+Arthur Compton,worksAt,this report,Arthur_Compton.txt,"For this report, he worked with Enrico Fermi on calculations of the critical mass of uranium-235, conservatively estimating it to be between 20 kilograms (44 lb) and 2 tonnes (2.0 long tons; 2.2 short tons)."
+Eugene Wigner,educatedAt,1920,Eugene_Wigner.txt,"After graduating from the secondary school in 1920, Wigner enrolled at the Budapest University of Technical Sciences, known as the Műegyetem."
+Eugene Wigner,educatedAt,secondary school,Eugene_Wigner.txt,"After graduating from the secondary school in 1920, Wigner enrolled at the Budapest University of Technical Sciences, known as the Műegyetem."
+Eugene Wigner,worksAt,Kaiser Wilhelm Institute,Eugene_Wigner.txt,"A graduate of the Technical Hochschule Berlin (now Technische Universität Berlin), Wigner worked as an assistant to Karl Weissenberg and Richard Becker at the Kaiser Wilhelm Institute in Berlin, and David Hilbert at the University of Göttingen."
+John Bardeen,receivedAward,Nobel Prize in Physics,John_Bardeen.txt,"He is the only person to be awarded the Nobel Prize in Physics twice: first in 1956 with William Shockley and Walter Brattain for their invention of the transistor; and again in 1972 with Leon Cooper and John Robert Schrieffer for their microscopic theory of superconductivity, known as the BCS theory."
+John Bardeen,receivedAward,Nobel Prizes,John_Bardeen.txt,"Bardeen is the first of only three people to have won multiple Nobel Prizes in the same category (the others being Frederick Sanger and Karl Barry Sharpless in chemistry), and one of five persons with two Nobel Prizes."
+John Bardeen,worksAt,Bell Labs,John_Bardeen.txt,"After serving in World War II, he was a researcher at Bell Labs and a professor at the University of Illinois."

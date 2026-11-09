@@ -1,0 +1,70 @@
+{
+  "fp": [
+    {
+      "subject": "Albert A. Michelson",
+      "predicate": "bornIn",
+      "object": "Strelno",
+      "source_doc": "Albert_A._Michelson.txt",
+      "sentence": "== Biography ==\r\n\r\n\r\n=== Early life ===\r\nAlbert Abraham Michelson was born on December 19, 1852, in Strelno (now Strzelno, Poland), Prussia, into a Polish-Jewish family.",
+      "_position": 1,
+      "_wrapped": false
+    },
+    {
+      "subject": "Arthur Compton",
+      "predicate": "worksAt",
+      "object": "Oxford University",
+      "source_doc": "Arthur_Compton.txt",
+      "sentence": "In 1934, he returned to England as Eastman visiting professor at Oxford University.",
+      "_position": 8,
+      "_wrapped": false
+    },
+    {
+      "subject": "Eugene Wigner",
+      "predicate": "educatedAt",
+      "object": "1920",
+      "source_doc": "Eugene_Wigner.txt",
+      "sentence": "After graduating from the secondary school in 1920, Wigner enrolled at the Budapest University of Technical Sciences, known as the M\u0171egyetem.",
+      "_position": 11,
+      "_wrapped": false
+    },
+    {
+      "subject": "Albert A. Michelson",
+      "predicate": "bornIn",
+      "object": "Strelno",
+      "source_doc": "Albert_A._Michelson.txt",
+      "sentence": "== Biography ==\r\n\r\n\r\n=== Early life ===\r\nAlbert Abraham Michelson was born on December 19, 1852, in Strelno (now Strzelno, Poland), Prussia, into a Polish-Jewish family.",
+      "_position": 17,
+      "_wrapped": true
+    }
+  ],
+  "fn": [
+    {
+      "subject": "Arthur Compton",
+      "predicate": "doctoralAdvisor",
+      "object": "Owen Willans Richardson",
+      "_position": 2,
+      "_wrapped": false
+    },
+    {
+      "subject": "Arthur Compton",
+      "predicate": "educatedAt",
+      "object": "Bluffton University",
+      "_position": 3,
+      "_wrapped": false
+    },
+    {
+      "subject": "Arthur Compton",
+      "predicate": "receivedAward",
+      "object": "Fellow of the American Association for the Advancement of Science",
+      "_position": 8,
+      "_wrapped": false
+    },
+    {
+      "subject": "Arthur Compton",
+      "predicate": "receivedAward",
+      "object": "Pour le M\u00e9rite for Sciences and Arts order",
+      "_position": 15,
+      "_wrapped": false
+    }
+  ]
+}

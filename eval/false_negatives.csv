@@ -1,0 +1,93 @@
+person,predicate,object
+Arthur Compton,doctoralAdvisor,Hereward Lester Cooke
+Arthur Compton,doctoralAdvisor,Owen Willans Richardson
+Arthur Compton,educatedAt,Bluffton University
+Arthur Compton,educatedAt,Cavendish Laboratory
+Arthur Compton,educatedAt,Princeton University
+Arthur Compton,educatedAt,University of Chicago
+Arthur Compton,educatedAt,University of Minnesota
+Arthur Compton,receivedAward,Fellow of the American Association for the Advancement of Science
+Arthur Compton,receivedAward,Franklin Medal
+Arthur Compton,receivedAward,Guggenheim Fellowship
+Arthur Compton,receivedAward,Guthrie Lecture
+Arthur Compton,receivedAward,Honorary Fellow of the Royal Society Te Apārangi
+Arthur Compton,receivedAward,Hughes Medal
+Arthur Compton,receivedAward,Matteucci Medal
+Arthur Compton,receivedAward,Pour le Mérite for Sciences and Arts order
+Arthur Compton,receivedAward,Richtmyer Memorial Lecture Award
+Arthur Compton,receivedAward,Rumford Prize
+Arthur Compton,receivedAward,X-ray badge
+Arthur Compton,worksAt,Massachusetts Institute of Technology
+Arthur Compton,worksAt,Washington University in St. Louis
+Eugene Wigner,bornIn,Budapest
+Eugene Wigner,doctoralAdvisor,Michael Polanyi
+Eugene Wigner,educatedAt,Fasori Gimnázium
+Eugene Wigner,educatedAt,Technische Universität Berlin
+Eugene Wigner,receivedAward,Albert Einstein Award
+Eugene Wigner,receivedAward,Atoms for Peace Award
+Eugene Wigner,receivedAward,Enrico Fermi Award
+Eugene Wigner,receivedAward,Fellow of the American Physical Society
+Eugene Wigner,receivedAward,Foreign Member of the Royal Society
+Eugene Wigner,receivedAward,Franklin Medal
+Eugene Wigner,receivedAward,John von Neumann Prize
+Eugene Wigner,receivedAward,Josiah Willard Gibbs Lectureship
+Eugene Wigner,receivedAward,Max Planck Medal
+Eugene Wigner,receivedAward,Medal for Merit
+Eugene Wigner,receivedAward,National Medal of Science
+Eugene Wigner,receivedAward,Richtmyer Memorial Lecture Award
+Eugene Wigner,receivedAward,Wigner Medal
+Eugene Wigner,worksAt,Leiden University
+Eugene Wigner,worksAt,Manhattan Project
+Eugene Wigner,worksAt,Oak Ridge National Laboratory
+Eugene Wigner,worksAt,Princeton University
+Eugene Wigner,worksAt,Technische Universität Berlin
+Eugene Wigner,worksAt,University of Göttingen
+Eugene Wigner,worksAt,University of Wisconsin–Madison
+Hans Bethe,bornIn,Strasbourg
+Hans Bethe,doctoralAdvisor,Arnold Sommerfeld
+Hans Bethe,educatedAt,Goethe University Frankfurt
+Hans Bethe,educatedAt,Goethe-Gymnasium
+Hans Bethe,educatedAt,LMU Munich
+Hans Bethe,educatedAt,Sapienza University of Rome
+Hans Bethe,educatedAt,University of Cambridge
+Hans Bethe,receivedAward,Albert Einstein Peace Prize
+Hans Bethe,receivedAward,Bruce Medal
+Hans Bethe,receivedAward,Eddington Medal
+Hans Bethe,receivedAward,Enrico Fermi Award
+Hans Bethe,receivedAward,Fellow of the American Academy of Arts and Sciences
+Hans Bethe,receivedAward,Fellow of the American Physical Society
+Hans Bethe,receivedAward,Foreign Member of the Royal Society
+Hans Bethe,receivedAward,Franklin Medal
+Hans Bethe,receivedAward,Henry Draper Medal
+Hans Bethe,receivedAward,Leo Szilard Lectureship Award
+Hans Bethe,receivedAward,Lomonosov Gold Medal
+Hans Bethe,receivedAward,Max Planck Medal
+Hans Bethe,receivedAward,National Medal of Science
+Hans Bethe,receivedAward,Niels Bohr International Gold Medal
+Hans Bethe,receivedAward,Oersted Medal
+Hans Bethe,receivedAward,Oskar Klein Medal
+Hans Bethe,receivedAward,Pour le Mérite for Sciences and Arts order
+Hans Bethe,receivedAward,Royal Society Bakerian Medal
+Hans Bethe,receivedAward,Rumford Prize
+Hans Bethe,receivedAward,"honorary member of the Physics Association (Frankfurt am Main, Germany)"
+Hans Bethe,worksAt,University of Tübingen
+John Bardeen,doctoralAdvisor,Eugene Paul Wigner
+John Bardeen,educatedAt,Madison Central High School
+John Bardeen,educatedAt,Princeton University
+John Bardeen,educatedAt,University of Wisconsin High School
+John Bardeen,educatedAt,University of Wisconsin–Madison
+John Bardeen,receivedAward,Fellow of the American Physical Society
+John Bardeen,receivedAward,Foreign Member of the Royal Society
+John Bardeen,receivedAward,Franklin Medal
+John Bardeen,receivedAward,Fritz London Award
+John Bardeen,receivedAward,Harold Pender Award
+John Bardeen,receivedAward,IEEE Medal of Honor
+John Bardeen,receivedAward,James Madison Medal
+John Bardeen,receivedAward,John Scott Award
+John Bardeen,receivedAward,Lomonosov Gold Medal
+John Bardeen,receivedAward,National Inventors Hall of Fame
+John Bardeen,receivedAward,National Medal of Science
+John Bardeen,receivedAward,Oliver E. Buckley Condensed Matter Prize
+John Bardeen,receivedAward,Presidential Medal of Freedom
+John Bardeen,receivedAward,Stuart Ballantine Medal
+John Bardeen,worksAt,University of Minnesota
