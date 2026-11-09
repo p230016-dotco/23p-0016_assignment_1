@@ -1,0 +1,37 @@
+@prefix ex: <http://example.org/> .
+@prefix sh: <http://www.w3.org/ns/shacl#> .
+
+ex:PersonShape a sh:NodeShape ;
+    sh:targetClass ex:Person ;
+    sh:property ex:BornInShape ;
+    sh:property ex:WorksAtShape ;
+    sh:property ex:ReceivedAwardShape ;
+    sh:property ex:EducatedAtShape ;
+    sh:property ex:DoctoralAdvisorShape .
+
+ex:BornInShape a sh:PropertyShape ;
+    sh:path ex:bornIn ;
+    sh:maxCount 1 ;
+    sh:class ex:Place ;
+    sh:message "A person has at most one birthplace; it must be a Place." .
+
+ex:WorksAtShape a sh:PropertyShape ;
+    sh:path ex:worksAt ;
+    sh:minCount 1 ;
+    sh:class ex:Organization ;
+    sh:message "A person must have at least one worksAt value, and it must be an Organization." .
+
+ex:ReceivedAwardShape a sh:PropertyShape ;
+    sh:path ex:receivedAward ;
+    sh:class ex:Award ;
+    sh:message "receivedAward values must be typed as ex:Award." .
+
+ex:EducatedAtShape a sh:PropertyShape ;
+    sh:path ex:educatedAt ;
+    sh:class ex:Organization ;
+    sh:message "educatedAt values must be Organizations." .
+
+ex:DoctoralAdvisorShape a sh:PropertyShape ;
+    sh:path ex:doctoralAdvisor ;
+    sh:class ex:Person ;
+    sh:message "doctoralAdvisor values must be Persons." .

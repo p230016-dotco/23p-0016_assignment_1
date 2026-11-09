@@ -1,0 +1,87 @@
+Validation Report
+Conforms: False
+Results (14):
+Constraint Violation in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Violation
+	Source Shape: ex:WorksAtShape
+	Focus Node: ex:Abraham_Kuhn
+	Result Path: ex:worksAt
+	Message: A person must have at least one worksAt value, and it must be an Organization.
+Constraint Violation in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Violation
+	Source Shape: ex:WorksAtShape
+	Focus Node: ex:Anderson_Professor
+	Result Path: ex:worksAt
+	Message: A person must have at least one worksAt value, and it must be an Organization.
+Constraint Violation in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Violation
+	Source Shape: ex:WorksAtShape
+	Focus Node: ex:Bar_Mitzvah
+	Result Path: ex:worksAt
+	Message: A person must have at least one worksAt value, and it must be an Organization.
+Constraint Violation in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Violation
+	Source Shape: ex:WorksAtShape
+	Focus Node: ex:Brattain
+	Result Path: ex:worksAt
+	Message: A person must have at least one worksAt value, and it must be an Organization.
+Constraint Violation in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Violation
+	Source Shape: ex:WorksAtShape
+	Focus Node: ex:Brian_Josephson
+	Result Path: ex:worksAt
+	Message: A person must have at least one worksAt value, and it must be an Organization.
+Constraint Violation in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Violation
+	Source Shape: ex:WorksAtShape
+	Focus Node: ex:Daniyal_Siddiqui
+	Result Path: ex:worksAt
+	Message: A person must have at least one worksAt value, and it must be an Organization.
+Constraint Violation in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Violation
+	Source Shape: ex:WorksAtShape
+	Focus Node: ex:Edward_Kolb
+	Result Path: ex:worksAt
+	Message: A person must have at least one worksAt value, and it must be an Organization.
+Constraint Violation in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Violation
+	Source Shape: ex:WorksAtShape
+	Focus Node: ex:Everett
+	Result Path: ex:worksAt
+	Message: A person must have at least one worksAt value, and it must be an Organization.
+Constraint Violation in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Violation
+	Source Shape: ex:WorksAtShape
+	Focus Node: ex:Fizikai_Szemle
+	Result Path: ex:worksAt
+	Message: A person must have at least one worksAt value, and it must be an Organization.
+Constraint Violation in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Violation
+	Source Shape: ex:WorksAtShape
+	Focus Node: ex:J_Hans_D_Jensen
+	Result Path: ex:worksAt
+	Message: A person must have at least one worksAt value, and it must be an Organization.
+Constraint Violation in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Violation
+	Source Shape: ex:WorksAtShape
+	Focus Node: ex:Josephson
+	Result Path: ex:worksAt
+	Message: A person must have at least one worksAt value, and it must be an Organization.
+Constraint Violation in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Violation
+	Source Shape: ex:WorksAtShape
+	Focus Node: ex:Robert_Marshak
+	Result Path: ex:worksAt
+	Message: A person must have at least one worksAt value, and it must be an Organization.
+Constraint Violation in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Violation
+	Source Shape: ex:WorksAtShape
+	Focus Node: ex:Schrieffer
+	Result Path: ex:worksAt
+	Message: A person must have at least one worksAt value, and it must be an Organization.
+Constraint Violation in MinCountConstraintComponent (http://www.w3.org/ns/shacl#MinCountConstraintComponent):
+	Severity: sh:Violation
+	Source Shape: ex:WorksAtShape
+	Focus Node: ex:Wooster
+	Result Path: ex:worksAt
+	Message: A person must have at least one worksAt value, and it must be an Organization.

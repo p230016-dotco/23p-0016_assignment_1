@@ -1,0 +1,29 @@
+@prefix ex:   <http://example.org/> .
+@prefix owl:  <http://www.w3.org/2002/07/owl#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+ex: a owl:Ontology ; rdfs:label "Physicists triples ontology" .
+
+ex:Person       a owl:Class .
+ex:Place        a owl:Class .
+ex:Organization a owl:Class .
+ex:Award        a owl:Class .
+
+ex:Person owl:disjointWith ex:Place , ex:Organization , ex:Award .
+ex:Place  owl:disjointWith ex:Organization , ex:Award .
+ex:Organization owl:disjointWith ex:Award .
+
+ex:receivedAward a owl:ObjectProperty ;
+    rdfs:domain ex:Person ; rdfs:range ex:Award .
+
+ex:worksAt a owl:ObjectProperty ;
+    rdfs:domain ex:Person ; rdfs:range ex:Organization .
+
+ex:bornIn a owl:ObjectProperty, owl:FunctionalProperty ;
+    rdfs:domain ex:Person ; rdfs:range ex:Place .
+
+ex:educatedAt a owl:ObjectProperty ;
+    rdfs:domain ex:Person ; rdfs:range ex:Organization .
+
+ex:doctoralAdvisor a owl:ObjectProperty ;
+    rdfs:domain ex:Person ; rdfs:range ex:Person .
